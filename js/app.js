@@ -1,6 +1,8 @@
-import { getWeek, getPrimitiva } from './function.js'
+import { getWeek, getPrimitiva, getBonoloto, getEuromillon } from './function.js'
 
 window.addEventListener('load', () => {
     getWeek(),
-    getPrimitiva()
+    getPrimitiva(),
+    getBonoloto(),
+    getEuromillon()
 })
