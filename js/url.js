@@ -1,7 +1,7 @@
-const primitiva = 'https://airetol.herokuapp.com/primitiva/get'
-const bonoloto = 'https://airetol.herokuapp.com/bonoloto/get'
-const euromillon = 'https://airetol.herokuapp.com/euromillon/get'
-const premios = 'https://airetol.herokuapp.com/get/price/'
+const primitiva = 'https://aireto-o-l-production.up.railway.app/primitiva/get'
+const bonoloto = 'https://aireto-o-l-production.up.railway.app/bonoloto/get'
+const euromillon = 'https://aireto-o-l-production.up.railway.app/euromillon/get'
+const premios = 'https://aireto-o-l-production.up.railway.app/get/price/'
 
 export {
     primitiva,
